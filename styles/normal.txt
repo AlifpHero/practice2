@@ -1,0 +1,26 @@
+/* .featured-product{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+/* .feature-image{
+    width: 30%;
+} */
+.featured-disc{
+    width: 60%;
+    margin: 20px 1000px;
+    /* margin: 20px 10px;  */
+    padding: 20px;
+}
+.featured-disc h1{
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+.featured-disc button{
+    margin-top: 20px;
+    padding: 10px 25px;
+    font-size: 20px;
+    background-color: royalblue;
+    border: none;
+    border-radius: 8px;
+} */
